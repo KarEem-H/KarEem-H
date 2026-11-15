@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Karim 👋
 
-<!--
-**KarEem-H/KarEem-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Laravel & Vue developer building practical business web applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I build backend-driven web applications with Laravel and PHP.
+- I work with Vue, MySQL, Tailwind CSS, and JavaScript.
+- I'm currently building **E-Market Misr**, a wholesale and distribution management platform.
+
+## Featured Projects
+
+- [Events Management](https://github.com/KarEem-H/events-management) — Event management application.
+- [Employee Management](https://github.com/KarEem-H/employee-management) — Employee management application.
+- [Store System Management](https://github.com/KarEem-H/StoreSystemManagementWebApplication) — Store management web application.
+- [Laravel Offers Manager](https://github.com/KarEem-H/offers_app) — Offers CRUD application built with Laravel.
+
+## Tech Stack
+
+`Laravel` · `PHP` · `Vue.js` · `MySQL` · `Tailwind CSS` · `JavaScript` · `Git`
+
+## Current Focus
+
+Building maintainable business applications with clear architecture and practical user experiences.
